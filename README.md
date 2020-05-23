@@ -48,8 +48,7 @@ ii. https://en.wikipedia.org/wiki/Dot_product<br>
 iii. https://en.wikipedia.org/wiki/Cosine_similarity<br>
 iv. https://en.wikipedia.org/wiki/Document-term_matrix<br>
 v. https://www.sciencedirect.com/topics/computer-science/information-retrieval-systems<br>
-vi. https://medium.com/@ravisarojjnu/basic-search-engine-an-information-retrieval-system-from-scratch-using-python-153c9bead8e1
-<p>
+
   
 
 
